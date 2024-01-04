@@ -32,6 +32,9 @@ body{
 }
 
 @media only screen and (max-width: 768px) {  
+  .section1 .text{
+    margin-left:-25px !important;
+  }
   /* hide classic menu */
   #topnav_menu {
     display: none;
